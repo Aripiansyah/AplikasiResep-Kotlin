@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077300825475",
+    "project_id": "reciperealm-app",
+    "storage_bucket": "reciperealm-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077300825475:android:4f7e00b4e6a2725d1f3ab6",
+        "android_client_info": {
+          "package_name": "com.example.reciperealm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaSP2DNaMRgzLhhKjbaxK0Qs9vW2f2d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipe Realm</string>
+    <string name="logo">Selamat datang di aplikasi Recipe Realm, aplikasi ini menyediakan berbagai macam resep makanan yang mempermudah para Ibu rumah tangga untuk melakukan masak memasak.</string>
+    <string name="bawah_button_login">Dengan masuk atau mendaftar, Anda menyetujui Ketentuan Layanan dan Kebijakan Privasi kami.</string>
+    <string name="text_register">Silahkan melakukan Registrasi terlebih dahulu.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
